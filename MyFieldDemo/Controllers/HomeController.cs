@@ -17,7 +17,7 @@ namespace MyFieldDemo.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Application description page.";
+            ViewData["Message"] = "HackWars 2019 application description page.";
 
             return View();
         }
